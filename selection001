@@ -1,6 +1,6 @@
-num = int(input("enter a number between 10 and 20 :" ))
-if num >= 10 and num <= 20 :
+num = int(input("enter a number between 99 and 200 :" ))
+if num >= 99 and num <= 200 :
   print ("Thank you")
 else:
   print ("out of range")
-;
+
