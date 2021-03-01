@@ -1,0 +1,5 @@
+print("Enter a colour:")
+ if colour == "RED" or colour == "Red" or colour == "red"
+ print("i like that colour too")  
+ if colour == "BLUE" or "Blue" or colour == "red"
+ print("I hate that colour ")
