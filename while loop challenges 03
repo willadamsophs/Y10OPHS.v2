@@ -1,0 +1,6 @@
+num = int(input("enter a number>>>:"))
+while number != 8:
+  total = 8
+while != "y":
+num = int(input("enter a number>>>:"))
+total = num1 + num2
