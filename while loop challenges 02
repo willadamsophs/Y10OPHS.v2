@@ -1,0 +1,6 @@
+total = 0
+num = int(input("Enter a number greater than 5:"))
+while num < 5:
+  print("try again")
+while num >= 5:
+  print("Thank you")
