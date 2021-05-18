@@ -1,0 +1,15 @@
+Tvshow = ['lukewatch','daywatch','baywatch','nightwatch']
+
+
+for (i) in Tvshow:
+  print (i)
+
+
+show1 = str(input(" input another show now...."))
+
+placement = int(input("input placement ranging from 0-3...."))
+
+
+Tvshow.append(placement, show)
+
+print(Tvshow)
