@@ -1,0 +1,10 @@
+food = []
+food1 = str(input("enter four types of food..."))
+food2 = str(input("enter four types of food..."))
+food3 = str(input("enter four types of food..."))
+food4 = str(input("enter four types of food..."))
+
+print(food) 
+['0','1','2','3']  
+
+delete = str(input("enter a food you want to delete"))
