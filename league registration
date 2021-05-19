@@ -1,0 +1,11 @@
+print("league registration ")
+
+Firstname = str(input("Enter your first name..."))
+
+Lastname = str(input("Enter your second name..."))
+
+Emailadress =str(input("Enter your email..."))
+
+skill = str(input("enter your skill level...")
+
+if skill == "e"
