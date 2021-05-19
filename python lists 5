@@ -1,0 +1,15 @@
+food = ['fish','chips', 'mash','peas']
+food1 = str(input("enter four types of food..."))
+food2 = str(input("enter four types of food..."))
+food3 = str(input("enter four types of food..."))
+food4 = str(input("enter four types of food..."))
+
+
+print(food) 
+
+
+remove = str(input("enter a food you want to delete..."))
+remove = str(input("enter a food you want to delete..."))
+
+food = ['fish','chips']
+print(food)
