@@ -1,0 +1,54 @@
+print("league registration ")
+
+Firstname = str(input("Enter your first name..."))
+
+Lastname = str(input("Enter your second name..."))
+
+Emailaddress =str(input("Enter your emailaddress..."))
+
+Skill = str(input("enter your skill level e or b..."))
+
+if Skill == "e":
+  print("skill level, expert")
+  
+else:
+  print("skill level, beginner")
+  
+details = str(input("are these details correct Y or N..."))
+
+if details == "y":
+  print("you have registered, welcome")
+  print("")
+  print(Firstname)
+  print("")
+  print(Lastname)
+  print("")
+  print(Emailaddress)
+  print("")
+  print(Skill)
+  
+else:
+  print("please re-enter your details")
+
+
+Firstname = str(input("Enter your first name..."))
+
+Lastname = str(input("Enter your second name..."))
+
+Emailaddress =str(input("Enter your email..."))
+
+Skill = str(input("enter your Skill level e or b..."))
+
+if Skill == "e":
+  print("Skill level, expert")
+  
+else:
+  print("Skill level, beginner")
+  
+details = str(input("are these details correct Y or N..."))
+
+if details == "y":
+  print("you have registered, welcome")
+
+else:
+  print("please re-enter your details")
