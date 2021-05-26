@@ -1,0 +1,16 @@
+print("welcome to fee calculator")
+
+email = str(input("enter your email address..."))
+
+skill = str(input("enter your skill level, e for expert, c for casual ..."))
+
+country = str(input("enter your country, uk, us or au..."))
+
+if country == "uk":
+  if skill == "e":
+    print("fee is 45GBP")
+if country == "uk":
+  if skill == "c":
+    print("fee is 35GBP")
+    
+while end == false:
