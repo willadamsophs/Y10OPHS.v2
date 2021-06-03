@@ -1,0 +1,4 @@
+name = "will"
+thing = name.find("i")
+
+print(thing)
