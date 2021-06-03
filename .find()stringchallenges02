@@ -1,0 +1,7 @@
+url = "google.com"
+
+target = "."
+
+location = url.find("target")
+
+print(target)
