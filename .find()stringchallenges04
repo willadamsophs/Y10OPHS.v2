@@ -1,0 +1,11 @@
+nums = "123456789"
+
+thing = nums.find("3")
+
+print(thing)
+
+nums = "123456789"
+
+thing = nums.find("8")
+
+print(thing)
