@@ -1,0 +1,5 @@
+email = "thequeen@buckinghampalace.uk"
+
+thing = email.find("@")
+
+print(thing)
